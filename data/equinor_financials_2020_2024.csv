@@ -1,0 +1,6 @@
+year,revenue_usd_m,net_income_usd_m,adjusted_operating_income_usd_m,total_capex_usd_m,organic_capex_usd_m,renewables_capex_pct,renewable_power_production_gwh,equity_production_mboe_day,co2_intensity_kg_per_boe,scope1_2_emissions_mt_co2e
+2020,45818,-5496,,9800,7800,,1662,2070,,
+2021,90924,8576,33486,8500,8100,,1562,2079,7.0,12.1
+2022,150806,28744,74940,10000,8350,14,1649,2039,6.9,11.4
+2023,107174,12000,36200,14500,10200,20,1938,2082,6.7,11.6
+2024,,7698,29800,12100,12100,,2935,2067,6.2,11.0
