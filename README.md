@@ -77,7 +77,8 @@ All data is sourced directly from Equinor's publicly published annual reports an
 
 ## Dashboard
 
-[View on Tableau Public](#) ← replace with your link once published
+[View on Tableau Public](#) 
+https://public.tableau.com/authoring/Equinor-Financial-Green-Energy-Analysis/CO2IntensityvsTargets/Equinor%20%E2%80%94%20Financial%20%26%20Green%20Energy%20Analysis%202020%E2%80%932024#2
 
 ---
 
